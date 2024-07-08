@@ -1,0 +1,7 @@
+sql
+SELECT 
+    length, 
+    width, 
+    (length * width) AS area
+FROM 
+    rectangles;
